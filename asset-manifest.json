@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.afbf81f0.css",
+    "main.js": "/react-homework-template/static/js/main.85a1ec3a.js",
+    "static/js/262.20d465d6.chunk.js": "/react-homework-template/static/js/262.20d465d6.chunk.js",
+    "static/js/625.72c52e09.chunk.js": "/react-homework-template/static/js/625.72c52e09.chunk.js",
+    "static/js/386.d35034c0.chunk.js": "/react-homework-template/static/js/386.d35034c0.chunk.js",
+    "static/js/955.df18cccf.chunk.js": "/react-homework-template/static/js/955.df18cccf.chunk.js",
+    "static/js/821.859b914a.chunk.js": "/react-homework-template/static/js/821.859b914a.chunk.js",
+    "static/js/678.67a59eb5.chunk.js": "/react-homework-template/static/js/678.67a59eb5.chunk.js",
+    "static/js/785.98c90d3c.chunk.js": "/react-homework-template/static/js/785.98c90d3c.chunk.js",
+    "static/js/128.f09c285e.chunk.js": "/react-homework-template/static/js/128.f09c285e.chunk.js",
+    "index.html": "/react-homework-template/index.html",
+    "main.afbf81f0.css.map": "/react-homework-template/static/css/main.afbf81f0.css.map",
+    "main.85a1ec3a.js.map": "/react-homework-template/static/js/main.85a1ec3a.js.map",
+    "262.20d465d6.chunk.js.map": "/react-homework-template/static/js/262.20d465d6.chunk.js.map",
+    "625.72c52e09.chunk.js.map": "/react-homework-template/static/js/625.72c52e09.chunk.js.map",
+    "386.d35034c0.chunk.js.map": "/react-homework-template/static/js/386.d35034c0.chunk.js.map",
+    "955.df18cccf.chunk.js.map": "/react-homework-template/static/js/955.df18cccf.chunk.js.map",
+    "821.859b914a.chunk.js.map": "/react-homework-template/static/js/821.859b914a.chunk.js.map",
+    "678.67a59eb5.chunk.js.map": "/react-homework-template/static/js/678.67a59eb5.chunk.js.map",
+    "785.98c90d3c.chunk.js.map": "/react-homework-template/static/js/785.98c90d3c.chunk.js.map",
+    "128.f09c285e.chunk.js.map": "/react-homework-template/static/js/128.f09c285e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afbf81f0.css",
+    "static/js/main.85a1ec3a.js"
+  ]
+}
